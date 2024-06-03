@@ -1,0 +1,5 @@
+setuptools==69.5.1
+pandas
+numpy
+seaborn
+scikit-learn

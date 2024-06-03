@@ -1,0 +1,3 @@
+[2024-06-01 12:25:50,418] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-06-01 12:25:50,436] 97 werkzeug - INFO -  * Debugger PIN: 106-265-105
+[2024-06-01 12:27:34,394] 97 werkzeug - INFO -  * Detected change in 'E:\\Diamond Price Predication\\app.py', reloading

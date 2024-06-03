@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Author: Sachin Navarkar
+Author-email: sach.navarkar51@gmail.com
+Requires-Dist: setuptools==69.5.1
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
